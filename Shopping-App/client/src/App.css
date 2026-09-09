@@ -1,0 +1,36 @@
+.header{
+  width: 100vw;
+  height:10vh;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+}
+.navbar{
+  width: 100vw;
+  height:4vh;
+  background-color: maroon;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  font-size: 20px;
+}
+.home{
+  width: 100vw;
+  height:10vh;
+  background-color: black;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.footer{
+  width: 100vw;
+  height:6vh;
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+}
